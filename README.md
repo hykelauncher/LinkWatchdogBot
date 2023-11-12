@@ -70,7 +70,7 @@ In order to authenticate your bot with Firebase, you'll need to obtain a service
 1. Clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/yourusername/linkwatchdog-bot.git
+git clone https://github.com/hykelauncher/linkwatchdog-bot.git
 ```
 
 2. Install the required Node.js packages using npm.
